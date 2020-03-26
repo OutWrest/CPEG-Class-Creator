@@ -1,0 +1,9 @@
+﻿@font-face {
+    font-family: 'OpenSans-Regular';
+    src: url('Static/GlobalAssets/webfonts/Opensans-Regular.eot');
+    src: url('Static/GlobalAssets/webfonts/Static/GlobalAssets/webfonts/Opensans-Regular.eot') format('embedded-opentype'),
+         url('Static/GlobalAssets/webfonts/Static/GlobalAssets/webfonts/Opensans-Regular.woff') format('woff2'),
+         url('Static/GlobalAssets/webfonts/Opensans-Regular.woff') format('woff'),
+         url('Static/GlobalAssets/webfonts/Opensans-Regular.ttf') format('truetype'),
+         url('Static/GlobalAssets/webfonts/Opensans-Regular.svg') format('svg');
+}

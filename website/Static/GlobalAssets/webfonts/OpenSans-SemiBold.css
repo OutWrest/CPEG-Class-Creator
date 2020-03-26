@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'OpenSans-SemiBold';
+    src: url('Static/GlobalAssets/webfonts/OpenSans-SemiBold.eot');
+    src: url('Static/GlobalAssets/webfonts/Static/GlobalAssets/webfonts/OpenSans-SemiBold.eot') format('embedded-opentype'),
+         url('Static/GlobalAssets/webfonts/Static/GlobalAssets/webfonts/OpenSans-SemiBold.woff') format('woff2'),
+         url('Static/GlobalAssets/webfonts/OpenSans-SemiBold.woff') format('woff'),
+         url('Static/GlobalAssets/webfonts/OpenSans-SemiBold.ttf') format('truetype'),
+         url('Static/GlobalAssets/webfonts/OpenSans-SemiBold.svg') format('svg');
+  
+}

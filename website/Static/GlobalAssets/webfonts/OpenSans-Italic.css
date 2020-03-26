@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'OpenSans-Italic';
+    src: url('Static/GlobalAssets/webfonts/OpenSans-Italic.eot');
+    src: url('Static/GlobalAssets/webfonts/Static/GlobalAssets/webfonts/OpenSans-Italic.eot') format('embedded-opentype'),
+         url('Static/GlobalAssets/webfonts/Static/GlobalAssets/webfonts/OpenSans-Italic.woff') format('woff2'),
+         url('Static/GlobalAssets/webfonts/OpenSans-Italic.woff') format('woff'),
+         url('Static/GlobalAssets/webfonts/OpenSans-Italic.ttf') format('truetype'),
+         url('Static/GlobalAssets/webfonts/OpenSans-Italic.svg') format('svg');
+}
